@@ -46,13 +46,8 @@
   </tr>
   <tr>
     <td align="center" width="50%">
-      <a href="https://codepen.io/christiangh/pen/KwBJOX"><img src="assets/codepen/summarizing-the-quixote.png" alt="Summarizing The Quixote"><br><b>Summarizing "The Quixote"</b></a>
-    </td>
-    <td align="center" width="50%">
       <a href="https://codepen.io/christiangh/pen/VYoJgv"><img src="assets/codepen/opening-the-box.png" alt="Opening the box!"><br><b>Opening the box!</b></a>
     </td>
-  </tr>
-  <tr>
     <td align="center" colspan="2">
       <a href="https://codepen.io/christiangh/pen/beayNR"><img src="assets/codepen/music-button.png" alt="Music Button" width="50%"><br><b>Music Button</b></a>
     </td>
